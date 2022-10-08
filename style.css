@@ -1,0 +1,27 @@
+body{
+    background-color: Medium Gray;
+}
+
+
+#btn{
+    border: 1px solid black;
+    font-weight: 900;
+    border-radius: 10px;
+    padding: 10px 18px;
+}
+
+#reg{
+    border: 1px solid black;
+    font-weight: 900;
+    
+    padding: 10px 15px;
+
+}
+
+
+#imgs{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 14%;
+}
